@@ -14,7 +14,7 @@ function App() {
   const postsPerPage = 6;
 
   useEffect(() => {
-    fetch('https://dummyjson.com/posts')
+    fetch('https://jsonplaceholder.typicode.com/posts')
       .then((res) => {
         if (!res.ok) throw new Error('Network error');
         return res.json();
