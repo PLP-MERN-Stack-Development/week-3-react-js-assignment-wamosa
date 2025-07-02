@@ -18,13 +18,17 @@ This project is built with **React** and **Vite**, with Hot Module Reloading (HM
 - Node.js (v18 or later)
 - npm
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name/plp-week3
+---
+## 🚀 Features
 
+- ✅ Add, delete, and manage tasks
+- 🌗 Dark/light theme toggle
+- 🧭 Page navigation using React Router
+- 💾 LocalStorage support
+- 📱 Fully responsive layout
+- 📦 Built with reusable ShadCN UI components
 
-'''
+---
 
 
 
@@ -33,7 +37,14 @@ cd your-repo-name/plp-week3
 ## 🌐 Live Demo
 
 Deployed on **Vercel**:  
-🔗 [https://bmw-taskmanager3.vercel.app/](https://bmw-taskmanager3.vercel.app/)
+🔗 [bmw-taskmanger](https://bmw-taskmanager3.vercel.app/)
 
 ## Screenshot of the deployed app
-[BMW taskmanager.png]
+[BMW taskmanager_screenshot](plp-week3/BMW taskmanager.png)
+
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-wamosa.git
+cd week-3-react-js-assignment/plp-week3
+```
